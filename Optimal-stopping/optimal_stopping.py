@@ -9,7 +9,7 @@ print("Optimal Stopping Problem")
 # Parameters
 
 N = 1000 # number of simulations
-n = 20 # number of candidates
+n = 100 # number of candidates
 strategies = np.arange(0,1,0.01)
 candidates = np.arange(n)
 success_rate = np.zeros((strategies.shape[0], 1))
