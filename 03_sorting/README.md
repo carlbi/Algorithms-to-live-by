@@ -1,4 +1,4 @@
-# Optimal Stopping Problem
+# Sorting Simulations
 
 Required dependencies:
 ```python
